@@ -1,3 +1,5 @@
 # Deep-Learning-Course-Project-
 
-CycleGAN with Yifan Shi
+CycleGAN 
+Group project with syfrankie
+
